@@ -1,0 +1,66 @@
+@media (max-width: 767px) {
+    .container {
+        flex-direction: column;
+    }
+    .container-card {
+        flex-direction: column;
+    }
+    .subNota {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 540px) {
+    .hombreAraña {
+        max-width: 100%;
+        margin: 0%;
+        padding: 0%;
+    }
+    .navbar ul {
+        display: flex;
+        flex-direction: column;
+    }
+    .navbar {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin: 0%;
+        padding: 0%;
+    }
+    .container h2 {
+        text-align: center;
+    }
+    .container-card {
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+    }
+    .container-card img {
+        max-width: 90%;
+    }
+    .subNota {
+        flex-direction: column;
+    }
+    .video {
+        margin: 0%;
+        padding: 0%;
+        width: 100%;
+        height: 100%;
+    }
+    .mainIniciar {
+        display: flex;
+    }
+    .formIniciar {
+        display: inline;
+        align-items: flex-start;
+        padding: 0%;
+        margin: 0%;
+    }
+    .ubicacion {
+        display: flex;
+    }
+}

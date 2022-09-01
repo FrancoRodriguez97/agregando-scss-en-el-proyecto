@@ -1,0 +1,48 @@
+.titulo {
+    background-color: bisque;
+    border: px solid black;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin: 10px;
+    height: 10;
+    width: 5;
+}
+
+.slider {
+    background-color: gray;
+    margin: auto;
+    width: 100%;
+}
+
+.subtitulo {
+    font-family: "arial";
+    margin: 100 px;
+    padding: px;
+    background-color: bisque;
+    text-align: left;
+    margin-top: 1%;
+}
+
+.copy {
+    background-color: black;
+    color: aliceblue;
+    margin: 3px;
+    padding: 3 px;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 20px;
+}
+
+.row {
+    justify-content: space-evenly;
+    margin: 3px;
+    ;
+}
+
+.card {
+    background-color: bisque;
+}
+
+.ancho-carousel {
+    width: 67vw;
+    margin: auto;
+}

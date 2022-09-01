@@ -1,0 +1,25 @@
+.mainContacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 65vh;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    padding: 10px;
+    margin-top: 6%;
+}
+
+.form input {
+    margin-bottom: 50 px;
+    padding: 13px;
+    margin: 6px;
+}
+
+.tituloContacto {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

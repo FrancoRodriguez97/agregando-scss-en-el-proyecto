@@ -1,0 +1,28 @@
+.tituloIniciar {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.mainIniciar {
+    background-color: bisque;
+    height: 65vh;
+}
+
+.mainIniciar section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formIniciar {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 20%;
+}
+
+.formIniciar input {
+    margin-bottom: 10 px;
+    padding: 13px;
+    margin: 6px;
+}
